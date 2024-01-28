@@ -42,5 +42,4 @@ no ratings, but higher base skills (+20) and lower summoning req (510 trained/55
 
 How to start
 
-Give 5147 Return to Frore* to Quiddity Seed inside the Mountain Cavern (level 200+ access in Crater)
-* Purchase this book from the Cragstone, Zaikhal or Hebian-To scrivener. 
+Give 5147 Return to Frore to Quiddity Seed inside the Mountain Cavern (level 200+ access in Crater). Purchase this book from the Cragstone, Zaikhal or Hebian-To scrivener. 
