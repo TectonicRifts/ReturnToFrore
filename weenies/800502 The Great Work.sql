@@ -20,7 +20,7 @@ VALUES (800502,   1,         16) /* ItemType - Creature */
      , (800502,  93,       3080) /* PhysicsState - ReportCollisions, Gravity, LightingOn */
      , (800502, 103,          2) /* GeneratorDestructionType - Destroy */
      , (800502, 133,          4) /* ShowableOnRadar - ShowAlways */
-     , (800502, 146,      43680) /* XpOverride */;
+     , (800502, 146,    4000000) /* XpOverride */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)
 VALUES (800502,   1, True ) /* Stuck */
@@ -50,11 +50,11 @@ VALUES (800502,   1,       5) /* HeartbeatInterval */
      , (800502,  39,     1.5) /* DefaultScale */
      , (800502,  41,      30) /* RegenerationInterval */
      , (800502,  43,       8) /* GeneratorRadius */
-     , (800502,  64,     0.5) /* ResistSlash */
-     , (800502,  65,     0.5) /* ResistPierce */
-     , (800502,  66,     0.5) /* ResistBludgeon */
+     , (800502,  64,     0.8) /* ResistSlash */
+     , (800502,  65,     0.8) /* ResistPierce */
+     , (800502,  66,     0.8) /* ResistBludgeon */
      , (800502,  67,       0) /* ResistFire */
-     , (800502,  68,    0.65) /* ResistCold */
+     , (800502,  68,    0.85) /* ResistCold */
      , (800502,  69,     0.3) /* ResistAcid */
      , (800502,  70,     0.5) /* ResistElectric */
      , (800502,  71,       1) /* ResistHealthBoost */
@@ -152,7 +152,7 @@ INSERT INTO `weenie_properties_generator` (`object_Id`, `probability`, `weenie_C
 VALUES (800502, -1, 800528, 3600, 1, 1, 1, 1, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0) /* Generate Uber Frore Hotspot Gen (800528) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: OnTop */
      , (800502, -1, 800533, 1, 1, 1, 1, 4, 0, 0, 0, 0x01380467, 89.993, -80.2715, 17.985, 0, 0, 0, -1) /* Generate Magical Portal (800533) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Specific */
      , (800502, -1, 800540, 3600, 1, 1, 1, 2, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Satellite Fragment (800540) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Scatter */
-     , (800502, -1, 800539, 10, 1, 1, 1, 2, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Satellite Fragment (800539) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Scatter */
+     , (800502, -1, 800539, 180, 1, 1, 1, 2, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Satellite Fragment (800539) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Scatter */
      , (800502, -1, 800546, 10, 1, 1, 1, 2, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Unstable Fragment (800546) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Scatter */
-     , (800502, -1, 800539, 10, 1, 1, 1, 2, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Satellite Fragment (800539) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Scatter */
+     , (800502, -1, 800539, 180, 1, 1, 1, 2, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Satellite Fragment (800539) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Scatter */
      , (800502, -1, 800546, 10, 1, 1, 1, 2, -1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0) /* Generate Unstable Fragment (800546) (x1 up to max of 1) - Regenerate upon Destruction - Location to (re)Generate: Scatter */;

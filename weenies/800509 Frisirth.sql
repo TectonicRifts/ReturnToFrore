@@ -21,7 +21,7 @@ VALUES (800509,   1,         16) /* ItemType - Creature */
      , (800509, 103,          3) /* GeneratorDestructionType - Kill */
      , (800509, 133,          2) /* ShowableOnRadar - ShowMovement */
      , (800509, 140,          1) /* AiOptions - CanOpenDoors */
-     , (800509, 146,       8877) /* XpOverride */
+     , (800509, 146,    2500000) /* XpOverride */
      , (800509, 307,         20) /* DamageRating */;
 
 INSERT INTO `weenie_properties_bool` (`object_Id`, `type`, `value`)
