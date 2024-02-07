@@ -15,9 +15,7 @@ froreuber
 
 Rewards
 
-Up to 70k luminance
-Up to 50% of level (max 500 million XP)
-Up to 30 MMDs
+Up to 70k luminance, 50% of level (max 500 million XP), and 30 MMDs.
 
 One item below available per quest completion:
 
