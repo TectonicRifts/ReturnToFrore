@@ -146,6 +146,15 @@ VALUES (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) fo
      , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
      , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
      , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
+     , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */
      , (800502, 1, 800548,  1, 0, 0, False) /* Create Crystal Device (800548) for Contain */;
 
 INSERT INTO `weenie_properties_generator` (`object_Id`, `probability`, `weenie_Class_Id`, `delay`, `init_Create`, `max_Create`, `when_Create`, `where_Create`, `stack_Size`, `palette_Id`, `shade`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)

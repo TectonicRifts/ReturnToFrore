@@ -64,7 +64,7 @@ VALUES (800566,   1, 'Luma Homini') /* Name */
      , (800566,   5, 'Knight of the Golden Flame') /* Template */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
-VALUES (800566,   1, 0x02000001) /* Setup */
+VALUES (800566,   1, 0x0200004E) /* Setup */
      , (800566,   2, 0x090000C5) /* MotionTable */
      , (800566,   3, 0x20000083) /* SoundTable */
      , (800566,   4, 0x30000000) /* CombatTable */

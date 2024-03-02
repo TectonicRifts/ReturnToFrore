@@ -59,7 +59,7 @@ VALUES (800517,   1, 'Fidisa the Agile') /* Name */
      , (800517,   5, 'Knight of the Golden Flame') /* Template */;
 
 INSERT INTO `weenie_properties_d_i_d` (`object_Id`, `type`, `value`)
-VALUES (800517,   1, 0x02000001) /* Setup */
+VALUES (800517,   1, 0x0200004E) /* Setup */
      , (800517,   2, 0x090000C5) /* MotionTable */
      , (800517,   3, 0x20000083) /* SoundTable */
      , (800517,   4, 0x30000000) /* CombatTable */
@@ -102,6 +102,15 @@ VALUES (800517,  0,  4,  0,    0,  450,  225,  225,  225,  225,  225,  225,  225
 
 INSERT INTO `weenie_properties_create_list` (`object_Id`, `destination_Type`, `weenie_Class_Id`, `stack_Size`, `palette`, `shade`, `try_To_Bond`)
 VALUES (800517, 1, 800568,  0, 0, 1, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
+     , (800517, 1, 800568,  0, 0, 1, False) /* Create Shattered Key (800568) for Contain */
      , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
      , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
      , (800517, 1, 800568,  0, 0, 0, False) /* Create Shattered Key (800568) for Contain */
